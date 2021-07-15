@@ -62,9 +62,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HDD5X7K3GL\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HDD5X7K3GL');\n</script>",
-    "publishChangesOnly": true,
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/Blackheart/Desktop/landu/New%20folder"
+    "publishChangesOnly": true
   },
   "pages": {
     "xx.html": {
